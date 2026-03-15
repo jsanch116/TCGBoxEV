@@ -1,0 +1,76 @@
+{
+  "name": "Lorwyn Eclipsed Play Booster",
+  "number_of_slots": 15,
+  "slots": [
+    {
+      "name": "common (6)",
+      "categories": { "Common": "1.0" },
+      "quantity": 6
+    },
+    {
+      "name": "common (replaceable 1/55)",
+      "categories": { "Common": "54/55", "Special Guest": "1/55" },
+      "quantity": 1
+    },
+    {
+      "name": "uncommon (3)",
+      "categories": { "Uncommon": "0.90", "Uncommon Fable": "0.10" },
+      "quantity": 3
+    },
+    {
+      "name": "wildcard",
+      "categories": {
+        "Common": "0.18",
+        "Uncommon": "0.58",
+        "Rare": "0.19",
+        "Mythic": "0.018",
+        "Uncommon Fable": "0.018",
+        "Rare Fable": "0.00",
+        "Mythic Fable": "0.00",
+        "Rare Borderless Nonland": "0.01",
+        "Mythic Borderless Nonland": "0.00",
+        "Rare Borderless Shock": "0.00"
+      },
+      "quantity": 1
+    },
+    {
+      "name": "rare/mythic slot",
+      "categories": {
+        "Rare": "0.782",
+        "Mythic": "0.136",
+        "Rare Fable": "0.046",
+        "Mythic Fable": "0.012",
+        "Rare Borderless Nonland": "0.00",
+        "Mythic Borderless Nonland": "0.00",
+        "Rare Borderless Shock": "0.00"
+      },
+      "quantity": 1
+    },
+    {
+      "name": "foil slot",
+      "categories": {
+        "Common Foil": "0.604",
+        "Uncommon Foil": "0.298",
+        "Rare Foil": "0.065",
+        "Mythic Foil": "0.011",
+        "Uncommon Fable Foil": "0.01",
+        "Rare Fable Foil": "0.01",
+        "Mythic Fable Foil": "0.00",
+        "Rare Borderless Nonland Foil": "0.00",
+        "Mythic Borderless Nonland Foil": "0.00",
+        "Rare Borderless Shock Foil": "0.00"
+      },
+      "quantity": 1
+    },
+    {
+      "name": "basic land",
+      "categories": {
+        "Basic": "0.40",
+        "Basic Foil": "0.10",
+        "Basic Full-Art": "0.40",
+        "Basic Full-Art Foil": "0.10"
+      },
+      "quantity": 1
+    }
+  ]
+}

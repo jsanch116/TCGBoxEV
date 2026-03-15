@@ -1,0 +1,154 @@
+{
+  "name": "Lorwyn Eclipsed Set",
+  "cards": [
+    {
+      "name": "Chronicle of Victory",
+      "rarity": "Mythic",
+      "price": 35.81,
+      "foil_type": "normal",
+      "variant": "Fable"
+    },
+    {
+      "name": "Chronicle of Victory",
+      "rarity": "Mythic",
+      "price": 24.58,
+      "foil_type": "none",
+      "variant": "Fable"
+    },
+    {
+      "name": "Moonshadow",
+      "rarity": "Mythic",
+      "price": 18.84,
+      "foil_type": "normal",
+      "variant": null
+    },
+    {
+      "name": "Moonshadow",
+      "rarity": "Mythic",
+      "price": 15.32,
+      "foil_type": "none",
+      "variant": null
+    },
+    {
+      "name": "Formidable Speaker",
+      "rarity": "Rare",
+      "price": 36.0,
+      "foil_type": "normal",
+      "variant": "Borderless Nonland"
+    },
+    {
+      "name": "Formidable Speaker",
+      "rarity": "Rare",
+      "price": 16.0,
+      "foil_type": "none",
+      "variant": "Borderless Nonland"
+    },
+    {
+      "name": "Hexing Squelcher",
+      "rarity": "Rare",
+      "price": 29.51,
+      "foil_type": "none",
+      "variant": "Fable"
+    },
+    {
+      "name": "Hexing Squelcher",
+      "rarity": "Rare",
+      "price": 17.81,
+      "foil_type": "none",
+      "variant": null
+    },
+    {
+      "name": "Hexing Squelcher",
+      "rarity": "Rare",
+      "price": 20.86,
+      "foil_type": "normal",
+      "variant": null
+    },
+    {
+      "name": "Steam Vents",
+      "rarity": "Rare",
+      "price": 16.28,
+      "foil_type": "none",
+      "variant": "Borderless Shock"
+    },
+    {
+      "name": "Steam Vents",
+      "rarity": "Rare",
+      "price": 25.04,
+      "foil_type": "normal",
+      "variant": "Borderless Shock"
+    },
+    {
+      "name": "Formidable Speaker",
+      "rarity": "Rare",
+      "price": 11.95,
+      "foil_type": "none",
+      "variant": null
+    },
+    {
+      "name": "Formidable Speaker",
+      "rarity": "Rare",
+      "price": 20.3,
+      "foil_type": "normal",
+      "variant": null
+    },
+    {
+      "name": "Wistfulness",
+      "rarity": "Mythic",
+      "price": 10.32,
+      "foil_type": "none",
+      "variant": null
+    }
+  ],
+  "bulk_price": {
+    "Common": 0.02,
+    "Uncommon": 0.09,
+    "Rare": 0.2,
+    "Mythic": 0.5,
+    "Uncommon Fable": 0.0,
+    "Rare Fable": 0.0,
+    "Mythic Fable": 1.0,
+    "Rare Borderless Nonland": 0.0,
+    "Mythic Borderless Nonland": 0.0,
+    "Rare Borderless Shock": 11.22,
+    "Basic": 0.0,
+    "Basic Foil": 0.0,
+    "Basic Full-Art": 0.0,
+    "Basic Full-Art Foil": 0.0,
+    "Common Foil": 0.1,
+    "Uncommon Foil": 0.1,
+    "Rare Foil": 0.3,
+    "Mythic Foil": 1.5,
+    "Uncommon Fable Foil": 0.0,
+    "Rare Fable Foil": 0.0,
+    "Mythic Fable Foil": 1.7,
+    "Rare Borderless Shock Foil": 20.82
+  },
+  "cards_per_rarity": {
+    "Common": 81,
+    "Uncommon": 100,
+    "Rare": 65,
+    "Mythic": 22,
+    "Uncommon Fable": 10,
+    "Rare Fable": 26,
+    "Mythic Fable": 14,
+    "Rare Borderless Nonland": 5,
+    "Mythic Borderless Nonland": 8,
+    "Rare Borderless Shock": 5,
+    "Basic": 0,
+    "Basic Foil": 0,
+    "Basic Full-Art": 0,
+    "Basic Full-Art Foil": 0,
+    "Common Foil": 81,
+    "Uncommon Foil": 100,
+    "Rare Foil": 65,
+    "Mythic Foil": 22,
+    "Uncommon Fable Foil": 10,
+    "Rare Fable Foil": 26,
+    "Mythic Fable Foil": 14,
+    "Rare Borderless Shock Foil": 5,
+    "Mythic Borderless Nonland Foil": 8,
+    "Rare Borderless Nonland Foil": 5,
+    "Special Guest": 20
+  }
+}
